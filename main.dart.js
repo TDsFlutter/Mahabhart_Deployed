@@ -77466,7 +77466,7 @@ if(m==null)m=$.ajz=A.aoF(null,null)
 n=p.e=m.O6(p.c,n)
 p=n}else p=n
 s=2
-return A.X(A.ane(A.ane(p.QY(0,null)).c.CG(0,"Mahabharat/"+q)).c.jY(0,A.aD(["dateTime",q,"question",e,"options",d,"answer",b],t.N,t.K)).c2(0,new A.ZG(c),t.P).lJ(new A.ZH(c)),$async$vt)
+return A.X(A.ane(A.ane(p.QY(0,null)).c.CG(0,"Mahabharat/Question/"+q)).c.jY(0,A.aD(["dateTime",q,"question",e,"options",d,"answer",b],t.N,t.K)).c2(0,new A.ZG(c),t.P).lJ(new A.ZH(c)),$async$vt)
 case 2:return A.S(null,r)}})
 return A.T($async$vt,r)}}
 A.ZG.prototype={
